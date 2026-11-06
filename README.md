@@ -2,7 +2,7 @@ This README is AI-generated.
 
 Open the Quantifier-30 Calculator interface.
 
-https://sonicunligmated.github.io/calculator/
+https://Ancient7999.github.io/calculator/
 
 # Quantifier-30 Calculator
 
